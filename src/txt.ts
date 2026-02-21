@@ -6,7 +6,7 @@ export const WELCOME_MESSAGE = `✅ Welcome to quantum's media uploader bot!
 🌐 Here, you can upload your videos, pictures or sounds with their unique titles and tags.
 ⁉️ Uploaded media can be used in any chat through inline command; e.g. \`@quploader_bot <search_query>\`
 
-🔸 Made with ♥️ by @QuantumCipherr`;
+🔸 Made with ♥️ by @Q1tumC`;
 export const ASK_FOR_FILE = 'Send the file to upload.';
 export const ASK_FOR_TITLE = 'Send title for your file.';
 export const ASK_FOR_TAGS = 'Send tags for your file (seperate with `|`)';
